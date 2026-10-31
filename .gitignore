@@ -1,0 +1,10 @@
+config.env
+*.token
+token.txt
+nodes_summary.json
+sub_*.txt
+links.txt
+cache/
+data/
+*.log
+__pycache__/

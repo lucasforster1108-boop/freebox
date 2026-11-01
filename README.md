@@ -1,3 +1,5 @@
+**中文** | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+
 # FreeBox —— 一台免费 VPS，装下整个自托管基地
 
 我受够了「抢到一台免费 ARM 机器」和「它真的能干活」之间的鸿沟。所有
